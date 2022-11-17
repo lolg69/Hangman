@@ -1,6 +1,6 @@
 import random
 attempts = 5
-words = ["nutjob","handjob","jlowbob"]
+words = ["Bigworld","Smallword","Nicepeople"]
 word = random.choice(words)
 correct_guessed = []
 while True:
